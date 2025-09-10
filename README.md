@@ -1,6 +1,6 @@
 # Football Data Analysis 
 This project aims at providing valuable insights for football club's business questions from european football competitions occured between 2011 and 2020.
-## Methadologies -
+## Methodologies -
 ### 🔹Excel to view and understand the data.
 ### 🔹MySQL for data storage and retreival.
 ### 🔹Python for data preprocessing, data visualization statistical analysis and predictive modelling.
