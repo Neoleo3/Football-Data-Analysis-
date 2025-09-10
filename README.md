@@ -1,53 +1,37 @@
 # Football Data Analysis 
 This project aims at providing valuable insights for football club's business questions from eurupean football occured between 2011 and 2020.
 ## Business Questions
+### Player Performance
+<img width="1287" height="655" alt="image" src="https://github.com/user-attachments/assets/087ba9b9-797a-44da-b904-f9b6b14db731" />
+#### Observation
+Top Scorer Dominance: The player with 658 goals significantly outscores all others, with the next highest having only 143 goals. This indicates one highly prolific individual in the dataset.
+Midfield Card Accumulation:Centre-backs, attacking midfielders, and central midfielders show the highest number of cards received, suggesting these positions are frequently involved in card-worthy infractions.
 ### 🔹 Player Profile and Market Value
 Purpose: Help scouts and analysts assess player worth based on performance and demographics.
 How do player performance metrics (goals, assists, fouls/cards) correlate with their age?
 What is the relationship between player age and their market value (both current and peak)?
+<img width="1287" height="655" alt="image" src="https://github.com/user-attachments/assets/7dd1cc04-4bb1-429d-9baa-20a97cd3b076" />
+#### Observation
+Peak Performance at Age 22: Both "Goals Scored by Different Ages" and "Assisting Rate through Ages" show a significant peak around age 22, indicating this is a prime age for offensive output in players.
+Right Midfielders' High Market Value: "Market Values of Different Player Positions" clearly shows "Right Midfield" as having a substantially higher market value compared to all other positions, suggesting they are the most valuable player type in this dataset.
 ### 🔹 Team Comparison
 Purpose: For club management and analysts to benchmark performance and identify trends.
 How have different teams performed over time based on average goals scored and league positions (2012–2020)?
 Includes time-series analysis for pattern recognition.
 How have managerial changes affected team performance across seasons?
 Provides insight into coaching effectiveness and team stability.
+<img width="1281" height="628" alt="image" src="https://github.com/user-attachments/assets/5e32480d-12a5-4b25-953f-83c4642fe06e" />
+### Observation
+Dortmund's Scoring Prowess: Borussia Dortmund stands out as a leading team in terms of "Goals Scored by Different Teams," indicating strong offensive performance.
+Rising Scoring Trend: The "Rate of Goal Scored by teams" shows a general upward trend from 2012 to 2019, suggesting an increase in overall scoring activity over these years.
 ### 🔹 Attendance and Stadium Analysis
-Purpose: For event organizers and marketing teams to improve fan engagement and logistics.
-How does match attendance vary by competition type and season?
-Which stadiums consistently draw higher attendance, and what verdicts or outcomes are associated with those games?
 ### 🔹 Referee Analysis
-Purpose: For referee allocation and behavior pattern analysis by organizing bodies.
-What is the frequency distribution of matches officiated by each referee?
-What is the average number of yellow and red cards issued per referee?
-Makes it easy to analyze strict vs lenient referees.
 ### 🔹 Substitution Patterns
-Purpose: For coaches to optimize substitutions based on trends and match situations.
-What is the average number of substitutions per match across different leagues?
-At what times during matches are substitutions most commonly made, and how do they relate to current goal scores?
 ### 🔹 Event Analysis
-Purpose: Tactical insights for coaches and analysts on match intensity and game-changing events.
-What are the most common event types (goals, fouls, cards) across different leagues?
-Quantifies intensity and game style per league.
-Which teams register the most cards and fouls?
-Useful for understanding aggressive vs disciplined teams.
 ### 🔹 Competition Analysis
-Purpose: Evaluate scale and competitiveness for organizers and analysts.
-How many teams and players participate in each competition over time?
-Tracks growth or decline in participation.
-What is the average number of games and events per competition?
-Analyzes competitiveness and match density.
 ### 🔹 Player Attributes and Demographics
-Purpose: For global scouting and team-building strategies.
-What are the key physical and skill attributes of players in top competitions?
-Focuses on traits valuable for selection.
-What is the geographical distribution of players across leagues and teams?
-Useful for international scouting.
 ### 🔹 Contract Management
-Purpose: Assist in player contract planning and retention.
-How many active contracts exist per team and competition?
-Summarizes current contract status.
-What is the average contract expiration date, and how long is the notice period before expiry?
-Helps in planning renewals and transfer windows.
+
 <img width="1274" height="628" alt="image" src="https://github.com/user-attachments/assets/699d2904-d87a-43b6-92c6-a760646227c6" />
 
 
