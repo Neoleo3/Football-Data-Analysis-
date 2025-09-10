@@ -1,5 +1,5 @@
 # Football Data Analysis 
-## This project aims at providing valuable insights for football club's business questions from eurupean football occured between 2011 and 2020.
+This project aims at providing valuable insights for football club's business questions from eurupean football occured between 2011 and 2020.
 ## Business Questions
 ### 🔹 Player Profile and Market Value
 Purpose: Help scouts and analysts assess player worth based on performance and demographics.
@@ -47,6 +47,7 @@ Purpose: Assist in player contract planning and retention.
 How many active contracts exist per team and competition?
 Summarizes current contract status.
 What is the average contract expiration date, and how long is the notice period before expiry?
-
 Helps in planning renewals and transfer windows.
+<img width="1274" height="628" alt="image" src="https://github.com/user-attachments/assets/699d2904-d87a-43b6-92c6-a760646227c6" />
+
 
