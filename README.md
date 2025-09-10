@@ -1,6 +1,7 @@
 # Football Data Analysis 
-This project aims at providing valuable insights for football club's business questions from eurupean football occured between 2011 and 2020.
-## Focus areas of football and key insights retrieved and recommendation (Visit my website for more details) -
+This project aims at providing valuable insights for football club's business questions from european football competitions occured between 2011 and 2020.
+## Focus areas of football and key insights retrieved and recommendation -
+(Visit my website for more details)
 #### 🔹 Player Profile and Market Value
 One player dominates with 658 goals, an outlier far above peers.
 Players peak at age 22, with top combined goals, assists, and highest market value.
