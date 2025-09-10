@@ -6,7 +6,7 @@ This project aims at providing valuable insights for football club's business qu
 ### 🔹Python for data preprocessing, data visualization, statistical analysis and predictive modelling.
 ### 🔹Tableau for data visualization and dashbaords.
 ### 🔹Microsoft Powerpoint for conveying insights to stakeholders.
-### 🔹Agile methadologies for iterative development of project.
+### 🔹Agile methadology for iterative development of project.
 ## Focus areas of football and key insights retrieved and recommendation -
 (Visit my website for more details)
 #### 🔹 Player Profile and Market Value
